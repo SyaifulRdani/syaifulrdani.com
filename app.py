@@ -1,9 +1,3 @@
-# namaDepan = "Syaiful"
-# namaBelakang = "Rochmandani"
-# Hobby = "Bulutangkis"
-# Umur = "18"
-# print (" Namaku  :",namaDepan, namaBelakang, "\n", "Hobbyku :",Hobby,"\n", "Umurku  :",Umur,"\n")
-
 stop = True
 while (stop):
     
